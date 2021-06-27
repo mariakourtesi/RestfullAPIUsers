@@ -1,4 +1,4 @@
-# Restful API with Node.js, Express.js, MongoDB and React
+# Restful API with Node.js, Express.js, MongoDB and React 🚀
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

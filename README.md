@@ -19,5 +19,5 @@ You will also see any lint errors in the console.
 Then, run
 ### `nodemon server.js`
 
-Open [http://localhost:4000/users] to view it in the browser.
+Open [http://localhost:4000/users](http://localhost:3000/users) to view it in the browser.
 
